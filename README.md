@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wututua
-- 👀 I’m interested in ...
+- 👀 I’m interested in RTX 3090
 - 🌱 I’m currently learning C++，JAVA，C#
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me watutua@qq.com
