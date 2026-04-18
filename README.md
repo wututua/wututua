@@ -1,6 +1,6 @@
 - hi,我是 @wututua
-- 在校高中生
-- 正在学习的有 C++，JAVA，C#
+- 在校大学生
+- 正在学习的有 Vue,Python,C++,Rust,Goland
 - 现在在校学习
 - 联系我 wututua@qq.com
 
